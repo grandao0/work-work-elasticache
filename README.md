@@ -1,6 +1,8 @@
 work-work-elasticache
 ==============
 
+Destiny awaits.
+
 #### Types of Caching Architectures
 
 - Local In-Memory Caching
